@@ -1,5 +1,5 @@
 # Certificates
-This repository created for holds all certificates of Computer Science that Viacheslav Martsynyshen successfully completed.
+This repository created for holds all certificates of successfully completed computer science courses that Viacheslav Martsynyshen successfully completed.
 
 #  Course by demonstrating theoretical and practical understanding of C++
 ![SoloLearn_C++](https://github.com/ViacheslavM653/Certificates/assets/106179360/9def2d50-17c8-42a5-8fdd-0f0489533225)
