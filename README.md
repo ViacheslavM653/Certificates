@@ -8,6 +8,6 @@ This repository created for holds all certificates of successfully completed com
 ![The Complete C++ Developer Course](https://github.com/ViacheslavM653/Certificates/assets/106179360/bf4224b8-ccc7-485b-9654-46a60ce0091e)
 
 # Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games
- - Practical result [here](https://github.com/ViacheslavM653/Battle_Toys)
+ - Practical results [Battle Toys game](https://github.com/ViacheslavM653/Battle_Toys), [Obstacle Assault game](https://github.com/ViacheslavM653/Obstacle_Assault).
 
 ![Unreal Engine_5_C++Developer](https://github.com/ViacheslavM653/Certificates/assets/106179360/8ea90580-1458-4606-83d1-ab8b899a8e3c)
