@@ -7,6 +7,9 @@ This repository created for holds all certificates of successfully completed com
 # The Complete C++ Developer Course
 ![The Complete C++ Developer Course](https://github.com/ViacheslavM653/Certificates/assets/106179360/bf4224b8-ccc7-485b-9654-46a60ce0091e)
 
+#  The course  "Learn Multithreading with Modern C++"
+![Learn Multithreading with Modern c++](https://github.com/ViacheslavM653/Certificates/assets/106179360/74915fb2-7702-4ce2-9c17-8f0912050a9c)
+
 # Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games
  - Practical results [Battle Toys game](https://github.com/ViacheslavM653/Battle_Toys), [Obstacle Assault game](https://github.com/ViacheslavM653/Obstacle_Assault), [Simple Shooter game](https://github.com/ViacheslavM653/Simple_Shooter/tree/master).
 
