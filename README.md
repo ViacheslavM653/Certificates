@@ -10,6 +10,9 @@ This repository created for holds all certificates of successfully completed com
 #  The course  "Learn Multithreading with Modern C++"
 ![Learn Multithreading with Modern c++](https://github.com/ViacheslavM653/Certificates/assets/106179360/74915fb2-7702-4ce2-9c17-8f0912050a9c)
 
+# The course "Learn OO Analysis, Design & Programming"
+![Object Oriented Analysis](https://github.com/ViacheslavM653/Certificates/assets/106179360/e7ba0f80-1ba0-4274-83e8-65699511e949)
+
 # Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games
  - Practical results [Battle Toys game](https://github.com/ViacheslavM653/Battle_Toys), [Obstacle Assault game](https://github.com/ViacheslavM653/Obstacle_Assault), [Simple Shooter game](https://github.com/ViacheslavM653/Simple_Shooter/tree/master).
 
