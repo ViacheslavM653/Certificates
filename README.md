@@ -13,6 +13,10 @@ This repository created for holds all certificates of successfully completed com
 # The course "Learn OO Analysis, Design & Programming"
 ![Object Oriented Analysis](https://github.com/ViacheslavM653/Certificates/assets/106179360/e7ba0f80-1ba0-4274-83e8-65699511e949)
 
+# The course "C++ Unit Testing: Google Test and Google Mock"
+![C++ Unit Testing](https://github.com/ViacheslavM653/Certificates/assets/106179360/2121ac34-23a8-417d-aef6-608d8c87f5b3)
+
+
 # Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games
  - Practical results [Battle Toys game](https://github.com/ViacheslavM653/Battle_Toys), [Obstacle Assault game](https://github.com/ViacheslavM653/Obstacle_Assault), [Simple Shooter game](https://github.com/ViacheslavM653/Simple_Shooter/tree/master).
 
